@@ -1,4 +1,4 @@
-#My Data Analysis Capstone (Topic: Music)
+# My Data Analysis Capstone (Topic: Music)
 
 ## 1) What is this project about?
  - I am a student practicing data analysis. I chose a topic I like: my music listening habits (or a similar dataset). The idea is to look at data on songs, artists, and playback times to understand what I listen to most, when I listen, and if there are any unusual or interesting patterns. I'm not looking to do something super professional. I just want to practice, learn, and have fun with real data.
